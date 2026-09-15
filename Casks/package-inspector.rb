@@ -7,7 +7,7 @@ cask "package-inspector" do
   desc "Native macOS GUI for inspecting installed npm/yarn/pnpm packages"
   homepage "https://github.com/souvickcse/npm-Package-Inspector"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Package Inspector.app"
 
