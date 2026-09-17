@@ -1,6 +1,6 @@
 cask "pass-generator" do
-  version "1.0.0"
-  sha256 "bee1f78059f7d5a1e9d41aa6e57c93d14eeb1fa46bde294e0bfad4ebb9c45299"
+  version "1.0.1"
+  sha256 "4e1fac7a90107cf67ef989231eb9e23ccd22adb121f3fb2ebdd8c57140e30dca"
 
   url "https://github.com/souvickcse/PassGenerator/releases/download/v#{version}/PassGenerator-#{version}.zip"
   name "Pass Generator"
