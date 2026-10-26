@@ -1,6 +1,6 @@
 cask "superbuddy" do
-  version "1.0"
-  sha256 "f285757f7fff82ee5769145cc88a53bb5a10a19d79d7040835f32c4028bf80cb"
+  version "1.1"
+  sha256 "c979a4df0835741a37e45d342e4e2a64a81c0bb0e992a2c8eccc7ce013bbd068"
 
   url "https://github.com/souvickcse/SuperBuddy/releases/download/v#{version}/SuperBuddy-#{version}-universal.dmg"
   name "Super Buddy"
